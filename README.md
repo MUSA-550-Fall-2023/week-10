@@ -20,10 +20,6 @@ We'll walk through two examples of [Panel](https://panel.holoviz.org) dashboards
 1. [Visualizing recent shootings in Philadelphia using Altair, Folium, and Holoviews](https://github.com/MUSA-550-Fall-2023/philadelphia-shootings-app)
 2. [Visualizing NYC taxi trips with Datashader and Altair](https://github.com/MUSA-550-Fall-2023/datashader-nyc-taxi-app)
 
-## Summary of Web-based Options
-
-- [Web visualization options](./WebVisualizationOptions.md)
-- [Deployment options](./DeploymentOptions.md)
 
 ## References
 
